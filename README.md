@@ -58,11 +58,11 @@ Published paper on hybrid cloud architecture in MIET Conference 🔗 Read here
 
 📧 Email: akzilani875@gmail.com
 
-💼 LinkedIn: linkedin.com/in/md-abdul-kader-jilani-29b737161
+💼 LinkedIn: https://linkedin.com/in/md-abdul-kader-jilani-29b737161
 
-💻 GitHub: github.com/abdul875
+💻 GitHub: https://github.com/abdul875
 
-🧪 GitLab: gitlab.com/zilani875
+🧪 GitLab: https://gitlab.com/zilani875
 
 📱 Phone/WhatsApp: +880 1521-515380
 
