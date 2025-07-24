@@ -35,6 +35,7 @@ Git, GitHub, GitLab, MySQL, PostgreSQL, Firebase, REST APIs
 SurveyJS, Bootstrap, Tailwind CSS, Docker, OCR Automation
 
 📚 Projects & Research
+--------------------------------------------------------------------------------------
 📌 Job Portal (Django)
 A web platform to connect job seekers and employers, with filtering, authentication, and admin features.
 
@@ -48,6 +49,7 @@ A research project using real-time machine learning for sign language recognitio
 Published paper on hybrid cloud architecture in MIET Conference 🔗 Read here
 
 🔧 Recent Work Highlights
+--------------------------------------------------------------------------------------
 ✅ OCR Automation with Deep Learning – Streamlined OCR pipeline for document processing.
 
 📊 Dynamic Reporting System – Built Django + Pandas based data visualization/reporting dashboard.
@@ -55,6 +57,7 @@ Published paper on hybrid cloud architecture in MIET Conference 🔗 Read here
 🛠️ Issue Ticketing System – Designed a full-stack system to enhance support workflow using Django ORM + JS.
 
 🌐 Connect With Me
+--------------------------------------------------------------------------------------
 
 📧 Email: akzilani875@gmail.com
 
