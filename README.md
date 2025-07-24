@@ -46,7 +46,7 @@ Developed CNN model in Python/TensorFlow for ECG image classification.
 A research project using real-time machine learning for sign language recognition (under supervision of Dr. Maheen Islam).
 
 📌 Hybrid Cloud for Power Efficiency
-Published paper on hybrid cloud architecture in MIET Conference 🔗 Read here
+Published paper on hybrid cloud architecture in MIET Conference 🔗 [Read here](https://link.springer.com/chapter/10.1007/978-3-031-34622-4_57)
 
 🔧 Recent Work Highlights
 --------------------------------------------------------------------------------------
