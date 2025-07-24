@@ -55,6 +55,7 @@ Published paper on hybrid cloud architecture in MIET Conference 🔗 Read here
 🛠️ Issue Ticketing System – Designed a full-stack system to enhance support workflow using Django ORM + JS.
 
 🌐 Connect With Me
+
 📧 Email: akzilani875@gmail.com
 
 💼 LinkedIn: linkedin.com/in/md-abdul-kader-jilani-29b737161
