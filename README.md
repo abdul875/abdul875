@@ -32,6 +32,7 @@ Django, TensorFlow, Keras, Pandas, NumPy, OpenCV
 Git, GitHub, GitLab, MySQL, REST APIs
 
 **Other Tools:**
+
 SurveyJS, Bootstrap, Tailwind CSS, OCR Automation
 
 📚 Projects & Research
