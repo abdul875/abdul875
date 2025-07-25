@@ -29,10 +29,10 @@ Django, TensorFlow, Keras, Pandas, NumPy, OpenCV
 
 **Dev & Data:**
 
-Git, GitHub, GitLab, MySQL, PostgreSQL, Firebase, REST APIs
+Git, GitHub, GitLab, MySQL, REST APIs
 
 **Other Tools:**
-SurveyJS, Bootstrap, Tailwind CSS, Docker, OCR Automation
+SurveyJS, Bootstrap, Tailwind CSS, OCR Automation
 
 📚 Projects & Research
 --------------------------------------------------------------------------------------
