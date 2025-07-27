@@ -25,7 +25,7 @@ Python, Java, C, C++, HTML5, CSS3, JavaScript, jQuery
 
 **Frameworks & Tools:**
 
-Django, TensorFlow, Keras, Pandas, NumPy, OpenCV
+Django, TensorFlow, Keras, Pandas, NumPy, OpenCV, Bootstrap, Tailwind CSS,
 
 **Dev & Data:**
 
@@ -33,7 +33,7 @@ Git, GitHub, GitLab, MySQL, REST APIs
 
 **Other Tools:**
 
-SurveyJS, Bootstrap, Tailwind CSS, OCR Automation
+SurveyJS, AutoCad, Oracle Apex
 
 📚 Projects & Research
 --------------------------------------------------------------------------------------
