@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🎓 Master's in Applied Statistics and Data Science (Jahangirnagar University)
 - 🎓 BSc in Computer Science & Engineering (East West University)
-- 💼 Currently working at **Ami Probashi (Bangla Trac)**
+- 💼 Worked at **Ami Probashi (Bangla Trac)** (November 2022 - December 2025)
 - 📍 Based in Dhaka, Bangladesh
 - 🌟 Focus: **Machine Learning**, **Deep Learning**, **Data Engineering**, **Full Stack Web Dev**
 
